@@ -1,0 +1,2 @@
+Sve modele koji se nalaze u sceni sam ja radila osim laptopa.
+Laptop sam skinula sa interneta, stim da je bio bez tekstura, te sam plane za display i tastaturu sama dodala, kao i pripremila UV mapu za tastaturu.
