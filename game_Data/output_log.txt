@@ -1,0 +1,83 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920MX (ID=0x134f)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   22.21.13.8264
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lejla\Desktop\Igra\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Lejla\Desktop\Igra\game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lejla\Desktop\Igra\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lejla\Desktop\Igra\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Lejla\Desktop\Igra\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading C:\Users\Lejla\Desktop\Igra\game_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.279 seconds
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.870231 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 26ec -> priority: 1 
+  Thread -> id: 2f8 -> priority: 1 
+Platform assembly: C:\Users\Lejla\Desktop\Igra\game_Data\Managed\System.Xml.dll (this message is harmless)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.852350 ms
+2 hej to je to newGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nova  Sejla
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 916.
+Total: 0.793285 ms (FindLiveObjects: 0.081777 ms CreateObjectMapping: 0.083753 ms MarkObjects: 0.491852 ms  DeleteObjects: 0.134716 ms)
+
+0  newGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.140350 ms
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 424.
+Total: 38.804211 ms (FindLiveObjects: 0.169481 ms CreateObjectMapping: 0.253630 ms MarkObjects: 1.748150 ms  DeleteObjects: 36.629784 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.891655 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 3.347758 ms (FindLiveObjects: 0.107061 ms CreateObjectMapping: 0.112197 ms MarkObjects: 3.099659 ms  DeleteObjects: 0.026074 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.066668 ms
+4 hej to je to newGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nova  eafew
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 916.
+Total: 1.581039 ms (FindLiveObjects: 0.173432 ms CreateObjectMapping: 0.199506 ms MarkObjects: 0.990421 ms  DeleteObjects: 0.216099 ms)
+
+2  newGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
